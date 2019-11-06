@@ -9,3 +9,4 @@ A traditional Taiwanese game implemented in C++ (can be compiled by Dev-C++)
 Note 1: Still working on compiling the whole project by Makefile.  
 Note 2: Feel free to modify all code.
 
+
